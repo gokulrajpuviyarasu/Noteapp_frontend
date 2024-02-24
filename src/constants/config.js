@@ -1,0 +1,1 @@
+export const BASE_URL = "https://plum-doubtful-tick.cyclic.app/"
